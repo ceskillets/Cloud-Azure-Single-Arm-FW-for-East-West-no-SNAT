@@ -1,4 +1,4 @@
-# Cloud-Azure-Single-Arm-FW-for-East-West-no-SNAT
+# Azure Single Arm FW for East-West traffic without SNAT
 
 ## Brief Description
 This skillet deploys 2 VM-Series NGFW with an internal load balancer in single arm mode for East-West communication between applications without the need for configuring SNAT. The skillet also deploys two ubuntu servers to test the east west traffic.
